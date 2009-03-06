@@ -37,5 +37,6 @@ public class AppTest
         assertTrue( false );
         //Comments here
         //And more comments
+        //But it's all good, right?
     }
 }
