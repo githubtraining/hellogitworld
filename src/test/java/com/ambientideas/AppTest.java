@@ -38,5 +38,6 @@ public class AppTest
         //Comments here
         //And more comments
         //But it's all good, right?
+        //More comments
     }
 }
