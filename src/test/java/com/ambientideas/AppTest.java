@@ -35,13 +35,5 @@ public class AppTest
     {
     	System.out.println("Hello World! This is a JUnit test!");
         assertTrue( false );
-<<<<<<< HEAD:src/test/java/com/ambientideas/AppTest.java
-        //Comments here
-        //And more comments
-        //But it's all good, right?
-        //More comments
-        //Even more comments
-=======
->>>>>>> myfeature:src/test/java/com/ambientideas/AppTest.java
     }
 }
