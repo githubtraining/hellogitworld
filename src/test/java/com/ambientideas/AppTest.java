@@ -34,7 +34,7 @@ public class AppTest
     public void testApp()
     {
     	System.out.println("Hello World! This is a JUnit test!");
-        assertTrue( true );
+        assertTrue( false );
         //Comments here
         //And more comments
     }
