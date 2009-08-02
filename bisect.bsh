@@ -1,0 +1,4 @@
+git bisect good HEAD~5
+git bisect bad HEAD
+git bisect run mvn test
+git bisect log
