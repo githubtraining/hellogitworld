@@ -1,12 +1,8 @@
+import Square
+
 def name = "Matthew"
+int programmingPoints = 10
 
 println "Hello ${name}"
-
-int programmingPoints = 10
 println "${name} has at least ${programmingPoints} programming points."
-
-println "${programmingPoints} squared is ${square(programmingPoints)}"
-
-int square(int base) {
-	base * base
-}
+println "${programmingPoints} squared is ${Square.square(programmingPoints)}"
