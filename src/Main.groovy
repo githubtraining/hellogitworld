@@ -1,5 +1,3 @@
-import Square
-
 def name = "Matthew"
 int programmingPoints = 10
 
