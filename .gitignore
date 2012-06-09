@@ -1,1 +1,4 @@
 *.class
+*.log
+output/
+build/
