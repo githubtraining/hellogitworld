@@ -1,0 +1,12 @@
+<td class="votecell"></td>
+
+<td class="answercell">
+
+    <div class="post-text">
+        <p></p>
+        <p></p>
+        <pre>
+            <code></code>
+        </pre>
+        <p></p>
+
