@@ -1,4 +1,4 @@
-package com.ambientideas;
+package com.github;
 
 /**
  * Hello again
