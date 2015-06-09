@@ -1,3 +1,3 @@
 #!/bin/sh
-groovyc src/*.groovy
-groovy src/Main.groovy --cp src/
+hydro src/*.groovy
+hydro src/Main.groovy --cp src/
