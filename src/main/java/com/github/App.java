@@ -1,4 +1,4 @@
-package com.github;
+package main.java.com.github;
 
 /**
  * Hello again
