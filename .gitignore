@@ -3,3 +3,5 @@
 output/
 build/
 target/
+.idea/
+
