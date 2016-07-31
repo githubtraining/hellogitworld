@@ -1,1 +1,2 @@
-This is a brand new file 
+This is a brand new text
+These are my addiitons to the file 
