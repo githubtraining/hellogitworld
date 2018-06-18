@@ -3,11 +3,11 @@ package com.github;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import java.util.*;
 
 //Pending comments
 
 //Some comments on the master branch
-//Added some comments on the branch for the egit demo
 
 /**
  * Unit test for simple App.
@@ -39,5 +39,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        /* assert True return success if value returns with True*/
     }
 }
