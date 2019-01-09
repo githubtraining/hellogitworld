@@ -1,0 +1,15 @@
+total 56
+drwxr-xr-x  14 UserName  staff  448 Jan  9 09:29 .
+drwxr-xr-x   5 UserName  staff  160 Jan  9 09:23 ..
+drwxr-xr-x  13 UserName  staff  416 Jan  9 09:25 .git
+-rw-r--r--   1 UserName  staff  483 Jan  9 09:23 .gitattributes
+-rw-r--r--   1 UserName  staff   37 Jan  9 09:23 .gitignore
+-rw-r--r--   1 UserName  staff   27 Jan  9 09:23 .travis.yml
+-rw-r--r--   1 UserName  staff  795 Jan  9 09:23 README.txt
+-rw-r--r--   1 UserName  staff    0 Jan  9 09:29 abradnewfileonthebranch.txt
+-rw-r--r--   1 UserName  staff  112 Jan  9 09:23 build.gradle
+-rw-r--r--   1 UserName  staff    0 Jan  9 09:23 fix.txt
+-rw-r--r--   1 UserName  staff  639 Jan  9 09:23 pom.xml
+drwxr-xr-x   3 UserName  staff   96 Jan  9 09:23 resources
+-rwxr-xr-x   1 UserName  staff   63 Jan  9 09:23 runme.sh
+drwxr-xr-x   9 UserName  staff  288 Jan  9 09:23 src
