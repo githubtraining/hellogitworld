@@ -1,2 +1,3 @@
 this is a sample test file to test the knowledge of Git.
 to check the edit file and commit the changes for pull and compare options.
+testing for merge conflict remote file
