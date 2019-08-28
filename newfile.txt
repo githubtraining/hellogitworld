@@ -1,1 +1,2 @@
-this is a sample file to test git
+this is a sample file to test git.
+adding some more lines for testing
